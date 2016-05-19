@@ -1,2 +1,2 @@
 # helloworld
-blah
+the tutorial is confusing
